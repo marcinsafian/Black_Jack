@@ -11,6 +11,11 @@
 .project
 .settings
 .springBeans
+.gradle
+.gitignore
+build.gradle
+gradlew.bat
+settings.gradle
 
 ### IntelliJ IDEA ###
 
